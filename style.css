@@ -1,5 +1,23 @@
 
-.menu_item {
-    border: 10px;
-    border-radius: 5%;
+.menu-item {
+    padding: 10px;
+    
+}
+.menu-img {
+    border-radius: 20%;
+}
+
+.item-title {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.item-desc {
+    font-size: 90%;
+}
+
+.add-button {
+    border-radius: 42%;
+    background-color: goldenrod;
+
 }
