@@ -1,3 +1,5 @@
-body {
-    color: hotpink;
+
+.menu_item {
+    border: 10px;
+    border-radius: 5%;
 }
